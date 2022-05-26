@@ -34,11 +34,6 @@
 
  <hr>
  
-- 📫 How to reach me **fransan990@gmail.com**
-
-- 📄 Know about my experiences **I studied an intermediate degree in microcomputing and networking and an advanced degree in web application development.**
-
- <hr>
  
 ##
 <h3 align="left">Connect with me:</h3>
