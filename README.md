@@ -2,16 +2,18 @@
 <h3 align="center">I am a Full Stack Web Developer who loves to display my creativity through the products I create when programming in Javascript</h3>
 
 
-<h4> Project </h4>
+<h4> Projects </h4>
  <hr>
  
 - 🧟‍♂️ Project 1 [**Zombies Survival APP**](https://github.com/fransan990/Project_1_Game)
 
-     <span>Classical zombies survivor game developed with Canvas and DOM manipulation. <span>
+     <span><p>Classical zombies survivor game developed with Canvas and DOM manipulation. <p><span>
      
  <hr>
 
 - 🥘 Project 2 **Re-fs (recipe APP)**
+ 
+     <span><p>Classical zombies survivor game developed with Canvas and DOM manipulation. <p><span>
  
  <hr>
 
