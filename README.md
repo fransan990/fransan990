@@ -4,6 +4,18 @@
 
 <h3> Projects </h3>
  <hr>
+
+- 👕 Final project **GelioX (ecommerce APP)**
+      
+     <span><p>React | React-bootstrap | Aos | HTML5 | CSS3 | Javascript | Express | Node.js | MongoDB | Mongoose</p></span>
+      
+     <span><p>Client: [gelioX_Client](https://github.com/fransan990/gelioX_Client)</p></span>
+     <span><p>Server: [gelioX_Server](https://github.com/fransan990/gelioX_Server)</p></span>
+      
+     
+     <span><p>Web application where users can create and search for products adding them to their cart where they can then buy, these products have their own features such as you can see their details, you can save them as a favorite and you can also see how many times that product has been visited. </p></span>
+
+ <hr>
  
 - 🧟‍♂️ Project 1 [**Zombies Survival APP**](https://github.com/fransan990/Project_1_Game)
      
@@ -20,17 +32,7 @@
  
  <hr>
 
-- 👕 Project 3 **GelioX (ecommerce APP)**
-      
-     <span><p>React | React-bootstrap | Aos | HTML5 | CSS3 | Javascript | Express | Node.js | MongoDB | Mongoose</p></span>
-      
-     <span><p>Client: [gelioX_Client](https://github.com/fransan990/gelioX_Client)</p></span>
-     <span><p>Server: [gelioX_Server](https://github.com/fransan990/gelioX_Server)</p></span>
-      
-     
-     <span><p>Web application where users can create and search for products adding them to their cart where they can then buy, these products have their own features such as you can see their details, you can save them as a favorite and you can also see how many times that product has been visited. </p></span>
 
- <hr>
  
  
 ##
