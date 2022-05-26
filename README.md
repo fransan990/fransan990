@@ -34,7 +34,7 @@
 
  <hr>
  
-- 📫 How to reach me **fransan990@gmail.com**
+- 📫 How to reach me [**fransan990@gmail.com**](https://www.linkedin.com/in/francisco-javier-s%C3%A1nchez-g%C3%B3mez/)
 
 - 📄 Know about my experiences **I studied an intermediate degree in microcomputing and networking and an advanced degree in web application development.**
 
