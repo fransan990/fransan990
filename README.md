@@ -6,7 +6,8 @@
  <hr>
  
 - 🧟‍♂️ Project 1 [**Zombies Survival APP**](https://github.com/fransan990/Project_1_Game)
-
+     
+     <span><p>HTML5 | CSS3 | JavaScript | canvas</p></span>
      <span><p>Classical zombies survivor game developed with Canvas and DOM manipulation. </p><span>
      
  <hr>
