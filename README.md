@@ -2,7 +2,7 @@
 <h3 align="center">I am a Full Stack Web Developer who loves to display my creativity through the products I create when programming in Javascript</h3>
 
 
-<h4> Projects </h4>
+<h3> Projects </h3>
  <hr>
  
 - 🧟‍♂️ Project 1 [**Zombies Survival APP**](https://github.com/fransan990/Project_1_Game)
@@ -55,4 +55,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fransan990&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
+      
+      <h3>MY STATS :</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fransan990&show_icons=true&theme=dracula)
