@@ -11,7 +11,7 @@
      
  <hr>
 
-- 🥘 Project 2 **Re-fs (recipe APP)**
+- 🥘 Project 2 [**Re-fs (recipe APP)**](https://github.com/fransan990/Proyecto_2)
  
      <span><p>Web application where users can create, edit, delete and search recipes with detailed information.</p><span>
       
