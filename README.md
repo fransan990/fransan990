@@ -55,4 +55,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fransan990&theme=dark&background=000000)](https://github.com/fransan990/github-readme-stats)
 
 ##
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fransan990)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fransan990&theme=dark&background=000000)](https://git.io/streak-stats)
