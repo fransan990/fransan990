@@ -22,7 +22,7 @@
  
  <hr>
 
-- 👕 Project 3 **GelioX (ecommerce APP)**
+- 👕 Project 3 [**GelioX (ecommerce APP)**](https://github.com/fransan990/gelioX_Client)
       
       
       
