@@ -10,13 +10,19 @@
  <hr>
 
 - 🥘 Project 2 **Re-fs (recipe APP)**
+ 
+ <hr>
 
 - 👕 Project 3 **GelioX (ecommerce APP)**
 
+ <hr>
+ 
 - 📫 How to reach me **fransan990@gmail.com**
 
 - 📄 Know about my experiences **I studied an intermediate degree in microcomputing and networking and an advanced degree in web application development.**
 
+ <hr>
+ 
 ##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
