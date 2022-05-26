@@ -7,13 +7,13 @@
  
 - 🧟‍♂️ Project 1 [**Zombies Survival APP**](https://github.com/fransan990/Project_1_Game)
 
-     <span><p>Classical zombies survivor game developed with Canvas and DOM manipulation. <p><span>
+     <span><p>Classical zombies survivor game developed with Canvas and DOM manipulation. </p><span>
      
  <hr>
 
 - 🥘 Project 2 **Re-fs (recipe APP)**
  
-     <span><p>Classical zombies survivor game developed with Canvas and DOM manipulation. <p><span>
+     <span><p>Web application where users can create, edit, delete and search recipes with detailed information.</p><span>
  
  <hr>
 
