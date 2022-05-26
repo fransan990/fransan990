@@ -21,9 +21,9 @@
       
       
       
-      <p>Web application where users can create and search for products adding them to their cart where they can then buy, these products have their own features such as you can see their details, you can save them as a favorite and you can also see how many times that product has been visited. </p>
+      <span><p>Web application where users can create and search for products adding them to their cart where they can then buy, these products have their own features such as you can see their details, you can save them as a favorite and you can also see how many times that product has been visited. </p>
 
-<p>Products can be created for a specific role as well as you can add as much as you want of that product until it runs out. </p>
+<p>Products can be created for a specific role as well as you can add as much as you want of that product until it runs out. </p></span>
 
 
 
