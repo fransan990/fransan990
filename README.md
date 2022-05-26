@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Javier</h1>
 <h3 align="center">I am a Full Stack Web Developer who loves to display my creativity through the products I create when programming in Javascript</h3>
 
-- 🧟‍♂️ Project 1 **Zombies Survival APP**
+- 🧟‍♂️ Project 1 [**Zombies Survival APP**](https://github.com/fransan990/Project_1_Game)
 
 - 📫 How to reach me **fransan990@gmail.com**
 
