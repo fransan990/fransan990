@@ -17,25 +17,14 @@
      <span><p>HTML5 | CSS3 | JavaScript | Express.js | Node.js | MongoDB | GOOGLE API | HBS | Bootstrap v5.0 | Mongoose</p></span>
  
      <span><p>Web application where users can create, edit, delete and search recipes with detailed information.</p><span>
-      
-     <span><p>Web application where users can view recipes created by themselves and search for any other recipe they are interested in and can edit and delete their own recipes while they can also save the recipes they like the most in their profiles and in the Google Places API, where they can find the name and location of the restaurants where these recipes are located.</p></span>
-      
-      
-
  
  <hr>
 
 - 👕 Project 3 [**GelioX (ecommerce APP)**](https://github.com/fransan990/gelioX_Client)
       
      <span><p>React | React-bootstrap | Aos | HTML5 | CSS3 | Javascript | Express | Node.js | MongoDB | Mongoose</p></span>
-      
-      
-      
+     
      <span><p>Web application where users can create and search for products adding them to their cart where they can then buy, these products have their own features such as you can see their details, you can save them as a favorite and you can also see how many times that product has been visited. </p></span>
-
-     <span><p>Products can be created for a specific role as well as you can add as much as you want of that product until it runs out. </p></span>
-
-
 
  <hr>
  
