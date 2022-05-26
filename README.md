@@ -53,6 +53,6 @@
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fransan990&theme=dark&background=000000)]
-
+(https://github.com/fransan990/github-readme-stats)
 ##
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=7mariadlrosa&theme=dark&background=000000)](https://git.io/streak-stats)
