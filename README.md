@@ -3,11 +3,11 @@
 
 - 🧟‍♂️ Project 1 [**Zombies Survival APP**](https://github.com/fransan990/Project_1_Game)
 
-- 📫 How to reach me **fransan990@gmail.com**
-
 - 🥘 Project 2 **Re-fs (recipe APP)**
 
 - 👕 Project 3 **GelioX (ecommerce APP)**
+
+- 📫 How to reach me **fransan990@gmail.com**
 
 - 📄 Know about my experiences **I studied an intermediate degree in microcomputing and networking and an advanced degree in web application development.**
 
