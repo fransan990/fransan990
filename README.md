@@ -27,7 +27,7 @@
 
 - 👕 Project 3 [**GelioX (ecommerce APP)**](https://github.com/fransan990/gelioX_Client)
       
-      <span><p>React | React-bootstrap | Aos | HTML5 | CSS3 | Javascript | Express | Node.js | MongoDB | Mongoose</p></span>
+     <span><p>React | React-bootstrap | Aos | HTML5 | CSS3 | Javascript | Express | Node.js | MongoDB | Mongoose</p></span>
       
       
       
