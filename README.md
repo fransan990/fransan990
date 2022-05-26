@@ -14,6 +14,8 @@
 
 - 🥘 Project 2 [**Re-fs (recipe APP)**](https://github.com/fransan990/Proyecto_2)
  
+     <span><p>HTML5 | CSS3 | JavaScript | Express.js | Node.js | MongoDB | GOOGLE API | HBS | Bootstrap v5.0 | Mongoose</p></span>
+ 
      <span><p>Web application where users can create, edit, delete and search recipes with detailed information.</p><span>
       
      <span><p>Web application where users can view recipes created by themselves and search for any other recipe they are interested in and can edit and delete their own recipes while they can also save the recipes they like the most in their profiles and in the Google Places API, where they can find the name and location of the restaurants where these recipes are located.</p></span>
