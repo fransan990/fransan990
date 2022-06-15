@@ -93,7 +93,7 @@
   
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fransan990&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</span>
  
- <img data-target="animated-image.replacedImage" alt="GitHub" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="display: block; opacity: 1;">
+
   
  </div>
 
